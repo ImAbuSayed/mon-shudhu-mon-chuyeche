@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mon Shudhu Mon Chuyeche
+
+This log tracks the cryptographic history and versioning for the song **Mon Shudhu Mon Chuyeche** (mon-shudhu-mon-chuyeche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T02:34:14.658197 | `v1` | `68af1ee1ac649abfc510c9c5da81d6258bf32e3dfddf3ce71721a91b30c706b1` | `f878c2b05fe20c98d4259d75200761a5b0529a8a633515a25223caf7e319f72f` | `2026-05-10_mon-shudhu-mon-chuyeche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

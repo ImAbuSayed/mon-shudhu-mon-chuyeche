@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mon-shudhu-mon-chuyeche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Mon Shudhu Mon Chuyeche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-shudhu-mon-chuyeche/) |
+| **Get License** | [Get a Licensing Quote for Mon Shudhu Mon Chuyeche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mon-shudhu-mon-chuyeche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ধূসর স্মৃতির জানালা খুলে
+> দেখেছি আমি প্রথম তোমায়
+> অচেনা এক ঘোরের মাঝে
+> মন শুধু মন ছুঁয়ে যায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
